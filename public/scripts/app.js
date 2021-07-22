@@ -97,8 +97,7 @@ const handleFormAction = (ev) => {
 				} else if (inputs[0].value.length < 3) {
 					errors.push({
 						elem: inputs[0],
-						msg:
-							'Bitte gebe einen Namen mit mehr als 3 Zeichen an.',
+						msg: 'Bitte gebe einen Namen mit mehr als 3 Zeichen an.',
 					});
 				}
 
@@ -110,8 +109,7 @@ const handleFormAction = (ev) => {
 				} else if (inputs[1].value.length < 3) {
 					errors.push({
 						elem: inputs[1],
-						msg:
-							'Bitte gebe einen Namen mit mehr als 3 Zeichen an.',
+						msg: 'Bitte gebe einen Namen mit mehr als 3 Zeichen an.',
 					});
 				}
 
@@ -120,16 +118,14 @@ const handleFormAction = (ev) => {
 						if (inputs[2].value.length < 5) {
 							errors.push({
 								elem: inputs[2],
-								msg:
-									'Bitte gebe einen korrekte Telefonnummer an.',
+								msg: 'Bitte gebe einen korrekte Telefonnummer an.',
 							});
 						} else if (
 							inputs[2].value.search(/[a-zA-Z]/gim) != -1
 						) {
 							errors.push({
 								elem: inputs[2],
-								msg:
-									'Deine Telefonnummer sollte keine Buchstaben enthalten.',
+								msg: 'Deine Telefonnummer sollte keine Buchstaben enthalten.',
 							});
 						}
 					} else if (inputs[3].value != '') {
@@ -143,13 +139,11 @@ const handleFormAction = (ev) => {
 				} else {
 					errors.push({
 						elem: inputs[2],
-						msg:
-							'Bitte gebe eine gültige Emailadresse ODER gültige Telefonnummer an.',
+						msg: 'Bitte gebe eine gültige Emailadresse ODER gültige Telefonnummer an.',
 					});
 					errors.push({
 						elem: inputs[3],
-						msg:
-							'Bitte gebe eine gültige Emailadresse ODER gültige Telefonnummer an.',
+						msg: 'Bitte gebe eine gültige Emailadresse ODER gültige Telefonnummer an.',
 					});
 				}
 			});
