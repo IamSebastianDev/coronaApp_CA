@@ -5,6 +5,60 @@
       films: [
          {
              rentrak_film_id: "",
+             rentrak_release_id: "1333579",
+             title: "Wickie und die starken Männer - Das magische Schwe",
+             is_3d: false,
+             is_original_version: false,
+             is_original_version_with_subtitles: false,
+             is_hrf: false,
+             is_4k: false,
+             performances: [
+                {
+               id: "performance21727",
+               starts_at: "2021-09-09T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21727"
+                }
+             ,
+                {
+               id: "performance21728",
+               starts_at: "2021-09-10T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21728"
+                }
+             ,
+                {
+               id: "performance21729",
+               starts_at: "2021-09-11T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21729"
+                }
+             ,
+                {
+               id: "performance21730",
+               starts_at: "2021-09-12T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21730"
+                }
+             ,
+                {
+               id: "performance21731",
+               starts_at: "2021-09-13T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21731"
+                }
+             ,
+                {
+               id: "performance21732",
+               starts_at: "2021-09-14T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21732"
+                }
+             ,
+                {
+               id: "performance21733",
+               starts_at: "2021-09-15T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21733"
+                }
+             ]
+         }
+         ,
+         {
+             rentrak_film_id: "",
              rentrak_release_id: "1660373",
              title: "Kaiserschmarrndrama",
              is_3d: false,
@@ -13,120 +67,6 @@
              is_hrf: false,
              is_4k: false,
              performances: [
-                {
-               id: "performance21630",
-               starts_at: "2021-08-30T14:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21630"
-                }
-             ,
-                {
-               id: "performance21631",
-               starts_at: "2021-08-30T17:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21631"
-                }
-             ,
-                {
-               id: "performance21632",
-               starts_at: "2021-08-30T20:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21632"
-                }
-             ,
-                {
-               id: "performance21633",
-               starts_at: "2021-08-31T14:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21633"
-                }
-             ,
-                {
-               id: "performance21634",
-               starts_at: "2021-08-31T17:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21634"
-                }
-             ,
-                {
-               id: "performance21635",
-               starts_at: "2021-08-31T20:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21635"
-                }
-             ,
-                {
-               id: "performance21636",
-               starts_at: "2021-09-01T14:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21636"
-                }
-             ,
-                {
-               id: "performance21637",
-               starts_at: "2021-09-01T17:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21637"
-                }
-             ,
-                {
-               id: "performance21638",
-               starts_at: "2021-09-01T20:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21638"
-                }
-             ,
-                {
-               id: "performance21639",
-               starts_at: "2021-09-02T13:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21639"
-                }
-             ,
-                {
-               id: "performance21640",
-               starts_at: "2021-09-02T20:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21640"
-                }
-             ,
-                {
-               id: "performance21641",
-               starts_at: "2021-09-03T13:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21641"
-                }
-             ,
-                {
-               id: "performance21642",
-               starts_at: "2021-09-03T16:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21642"
-                }
-             ,
-                {
-               id: "performance21643",
-               starts_at: "2021-09-03T19:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21643"
-                }
-             ,
-                {
-               id: "performance21644",
-               starts_at: "2021-09-04T13:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21644"
-                }
-             ,
-                {
-               id: "performance21645",
-               starts_at: "2021-09-04T16:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21645"
-                }
-             ,
-                {
-               id: "performance21646",
-               starts_at: "2021-09-04T19:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21646"
-                }
-             ,
-                {
-               id: "performance21647",
-               starts_at: "2021-09-05T13:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21647"
-                }
-             ,
-                {
-               id: "performance21648",
-               starts_at: "2021-09-05T20:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21648"
-                }
-             ,
                 {
                id: "performance21649",
                starts_at: "2021-09-06T13:30:00",
@@ -162,35 +102,47 @@
                starts_at: "2021-09-08T20:15:00",
                ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21654"
                 }
-             ]
-         }
-         ,
-         {
-             rentrak_film_id: "",
-             rentrak_release_id: "1785848",
-             title: "Free Guy (OV)",
-             is_3d: false,
-             is_original_version: false,
-             is_original_version_with_subtitles: false,
-             is_hrf: false,
-             is_4k: false,
-             performances: [
+             ,
                 {
-               id: "performance21601",
-               starts_at: "2021-08-30T20:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21601"
+               id: "performance21710",
+               starts_at: "2021-09-09T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21710"
                 }
              ,
                 {
-               id: "performance21602",
-               starts_at: "2021-08-31T20:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21602"
+               id: "performance21734",
+               starts_at: "2021-09-10T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21734"
                 }
              ,
                 {
-               id: "performance21603",
-               starts_at: "2021-09-01T20:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21603"
+               id: "performance21735",
+               starts_at: "2021-09-11T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21735"
+                }
+             ,
+                {
+               id: "performance21736",
+               starts_at: "2021-09-12T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21736"
+                }
+             ,
+                {
+               id: "performance21737",
+               starts_at: "2021-09-13T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21737"
+                }
+             ,
+                {
+               id: "performance21738",
+               starts_at: "2021-09-14T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21738"
+                }
+             ,
+                {
+               id: "performance21739",
+               starts_at: "2021-09-15T17:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21739"
                 }
              ]
          }
@@ -205,90 +157,6 @@
              is_hrf: false,
              is_4k: false,
              performances: [
-                {
-               id: "performance21615",
-               starts_at: "2021-08-30T14:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21615"
-                }
-             ,
-                {
-               id: "performance21616",
-               starts_at: "2021-08-30T17:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21616"
-                }
-             ,
-                {
-               id: "performance21617",
-               starts_at: "2021-08-31T14:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21617"
-                }
-             ,
-                {
-               id: "performance21618",
-               starts_at: "2021-08-31T17:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21618"
-                }
-             ,
-                {
-               id: "performance21619",
-               starts_at: "2021-09-01T14:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21619"
-                }
-             ,
-                {
-               id: "performance21620",
-               starts_at: "2021-09-01T17:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21620"
-                }
-             ,
-                {
-               id: "performance21655",
-               starts_at: "2021-09-02T14:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21655"
-                }
-             ,
-                {
-               id: "performance21656",
-               starts_at: "2021-09-02T16:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21656"
-                }
-             ,
-                {
-               id: "performance21657",
-               starts_at: "2021-09-03T14:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21657"
-                }
-             ,
-                {
-               id: "performance21658",
-               starts_at: "2021-09-03T16:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21658"
-                }
-             ,
-                {
-               id: "performance21659",
-               starts_at: "2021-09-04T14:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21659"
-                }
-             ,
-                {
-               id: "performance21660",
-               starts_at: "2021-09-04T16:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21660"
-                }
-             ,
-                {
-               id: "performance21661",
-               starts_at: "2021-09-05T14:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21661"
-                }
-             ,
-                {
-               id: "performance21662",
-               starts_at: "2021-09-05T16:00:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21662"
-                }
-             ,
                 {
                id: "performance21663",
                starts_at: "2021-09-06T14:00:00",
@@ -338,15 +206,45 @@
              is_4k: false,
              performances: [
                 {
-               id: "performance21692",
-               starts_at: "2021-09-04T11:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21692"
+               id: "performance21703",
+               starts_at: "2021-09-09T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21703"
                 }
              ,
                 {
-               id: "performance21693",
-               starts_at: "2021-09-05T11:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21693"
+               id: "performance21704",
+               starts_at: "2021-09-10T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21704"
+                }
+             ,
+                {
+               id: "performance21705",
+               starts_at: "2021-09-11T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21705"
+                }
+             ,
+                {
+               id: "performance21706",
+               starts_at: "2021-09-12T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21706"
+                }
+             ,
+                {
+               id: "performance21707",
+               starts_at: "2021-09-13T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21707"
+                }
+             ,
+                {
+               id: "performance21708",
+               starts_at: "2021-09-14T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21708"
+                }
+             ,
+                {
+               id: "performance21709",
+               starts_at: "2021-09-15T14:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21709"
                 }
              ]
          }
@@ -362,15 +260,15 @@
              is_4k: false,
              performances: [
                 {
-               id: "performance21669",
-               starts_at: "2021-09-04T11:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21669"
+               id: "performance21711",
+               starts_at: "2021-09-11T12:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21711"
                 }
              ,
                 {
-               id: "performance21670",
-               starts_at: "2021-09-05T11:30:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21670"
+               id: "performance21712",
+               starts_at: "2021-09-12T12:30:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21712"
                 }
              ]
          }
@@ -385,30 +283,6 @@
              is_hrf: false,
              is_4k: false,
              performances: [
-                {
-               id: "performance21671",
-               starts_at: "2021-09-02T16:45:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21671"
-                }
-             ,
-                {
-               id: "performance21672",
-               starts_at: "2021-09-03T21:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21672"
-                }
-             ,
-                {
-               id: "performance21673",
-               starts_at: "2021-09-04T21:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21673"
-                }
-             ,
-                {
-               id: "performance21674",
-               starts_at: "2021-09-05T16:45:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21674"
-                }
-             ,
                 {
                id: "performance21675",
                starts_at: "2021-09-06T16:45:00",
@@ -426,6 +300,90 @@
                starts_at: "2021-09-08T16:45:00",
                ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21677"
                 }
+             ,
+                {
+               id: "performance21713",
+               starts_at: "2021-09-09T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21713"
+                }
+             ,
+                {
+               id: "performance21714",
+               starts_at: "2021-09-09T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21714"
+                }
+             ,
+                {
+               id: "performance21715",
+               starts_at: "2021-09-10T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21715"
+                }
+             ,
+                {
+               id: "performance21716",
+               starts_at: "2021-09-10T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21716"
+                }
+             ,
+                {
+               id: "performance21717",
+               starts_at: "2021-09-11T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21717"
+                }
+             ,
+                {
+               id: "performance21718",
+               starts_at: "2021-09-11T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21718"
+                }
+             ,
+                {
+               id: "performance21719",
+               starts_at: "2021-09-12T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21719"
+                }
+             ,
+                {
+               id: "performance21720",
+               starts_at: "2021-09-12T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21720"
+                }
+             ,
+                {
+               id: "performance21721",
+               starts_at: "2021-09-13T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21721"
+                }
+             ,
+                {
+               id: "performance21722",
+               starts_at: "2021-09-13T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21722"
+                }
+             ,
+                {
+               id: "performance21723",
+               starts_at: "2021-09-14T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21723"
+                }
+             ,
+                {
+               id: "performance21724",
+               starts_at: "2021-09-14T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21724"
+                }
+             ,
+                {
+               id: "performance21725",
+               starts_at: "2021-09-15T17:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21725"
+                }
+             ,
+                {
+               id: "performance21726",
+               starts_at: "2021-09-15T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21726"
+                }
              ]
          }
          ,
@@ -439,54 +397,6 @@
              is_hrf: false,
              is_4k: false,
              performances: [
-                {
-               id: "performance21678",
-               starts_at: "2021-09-02T18:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21678"
-                }
-             ,
-                {
-               id: "performance21679",
-               starts_at: "2021-09-02T20:45:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21679"
-                }
-             ,
-                {
-               id: "performance21680",
-               starts_at: "2021-09-03T18:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21680"
-                }
-             ,
-                {
-               id: "performance21681",
-               starts_at: "2021-09-03T20:45:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21681"
-                }
-             ,
-                {
-               id: "performance21682",
-               starts_at: "2021-09-04T18:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21682"
-                }
-             ,
-                {
-               id: "performance21683",
-               starts_at: "2021-09-04T20:45:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21683"
-                }
-             ,
-                {
-               id: "performance21684",
-               starts_at: "2021-09-05T18:15:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21684"
-                }
-             ,
-                {
-               id: "performance21685",
-               starts_at: "2021-09-05T20:45:00",
-               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21685"
-                }
-             ,
                 {
                id: "performance21686",
                starts_at: "2021-09-06T18:15:00",
@@ -521,6 +431,60 @@
                id: "performance21691",
                starts_at: "2021-09-08T20:45:00",
                ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21691"
+                }
+             ,
+                {
+               id: "performance21694",
+               starts_at: "2021-09-09T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21694"
+                }
+             ,
+                {
+               id: "performance21695",
+               starts_at: "2021-09-10T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21695"
+                }
+             ,
+                {
+               id: "performance21696",
+               starts_at: "2021-09-11T12:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21696"
+                }
+             ,
+                {
+               id: "performance21697",
+               starts_at: "2021-09-11T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21697"
+                }
+             ,
+                {
+               id: "performance21698",
+               starts_at: "2021-09-12T12:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21698"
+                }
+             ,
+                {
+               id: "performance21699",
+               starts_at: "2021-09-12T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21699"
+                }
+             ,
+                {
+               id: "performance21700",
+               starts_at: "2021-09-13T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21700"
+                }
+             ,
+                {
+               id: "performance21701",
+               starts_at: "2021-09-14T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21701"
+                }
+             ,
+                {
+               id: "performance21702",
+               starts_at: "2021-09-15T20:00:00",
+               ticketshop_link: "https://kinotickets.express/cadillac-veranda/booking/21702"
                 }
              ]
          }
