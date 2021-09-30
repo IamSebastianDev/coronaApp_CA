@@ -1,4 +1,4 @@
-﻿{
+﻿export default {
    cinemas: [
    {
       id: "2548",
